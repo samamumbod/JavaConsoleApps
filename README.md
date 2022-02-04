@@ -1,2 +1,2 @@
 # JavaConsoleApps
-# Solutions to problem in Java
+# Solution of problems in Java
